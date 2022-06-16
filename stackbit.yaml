@@ -29,7 +29,7 @@ contentModels:
     urlPath: '/blog'
     file: 'blog/index.md'
     newFilePath: 'blog/index.md'
-  PostFeedLayout:
+  ContactLayout:
     isPage: true
     singleInstance: true
     urlPath: '/blog'
