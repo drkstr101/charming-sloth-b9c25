@@ -32,9 +32,9 @@ contentModels:
   ContactLayout:
     isPage: true
     singleInstance: true
-    urlPath: '/blog'
-    file: 'blog/index.md'
-    newFilePath: 'blog/index.md'
+    urlPath: '/contact'
+    file: 'contact/index.md'
+    newFilePath: 'contact/index.md'
 modelsSource:
   type: files
   modelDirs:
