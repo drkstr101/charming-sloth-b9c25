@@ -34,7 +34,7 @@ contentModels:
     singleInstance: true
     urlPath: '/contact'
     file: 'contact.md'
-    newFilePath: 'contact/index.md'
+    newFilePath: 'contact.md'
 modelsSource:
   type: files
   modelDirs:
