@@ -1,5 +1,5 @@
 ---
-layout: PageLayout
+layout: ContactLayout
 metaTitle: null
 metaDescription: null
 addTitleSuffix: true
