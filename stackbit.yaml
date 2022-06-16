@@ -33,7 +33,7 @@ contentModels:
     isPage: true
     singleInstance: true
     urlPath: '/contact'
-    file: 'contact/index.md'
+    file: 'contact.md'
     newFilePath: 'contact/index.md'
 modelsSource:
   type: files
