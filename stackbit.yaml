@@ -29,6 +29,12 @@ contentModels:
     urlPath: '/blog'
     file: 'blog/index.md'
     newFilePath: 'blog/index.md'
+  PostFeedLayout:
+    isPage: true
+    singleInstance: true
+    urlPath: '/blog'
+    file: 'blog/index.md'
+    newFilePath: 'blog/index.md'
 modelsSource:
   type: files
   modelDirs:
