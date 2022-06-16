@@ -6,4 +6,4 @@ import BlankBaseLayout from './BlankBaseLayout';
 import DefaultBaseLayout from './DefaultBaseLayout';
 import ContactLayout from './ContactLayout';
 
-export { PageLayout, PostFeedLayout, PostFeedCategoryLayout, PostLayout, BlankBaseLayout, DefaultBaseLayout };
+export { PageLayout, PostFeedLayout, PostFeedCategoryLayout, PostLayout, BlankBaseLayout, DefaultBaseLayout, ContactLayout };
