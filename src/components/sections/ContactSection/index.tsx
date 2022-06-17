@@ -79,7 +79,7 @@ export default function ContactSection(props) {
                                 {contactBody(props)}
                                 {props.form && (
                                     <div className={classNames('sb-contact-section-form', { 'mt-12': props.title || props.text })}>
-                                        <FormBlock {...props.form} className="inline-block w-full max-w-screen-sm" data-sb-field-path="form" />
+                                        <FormBlock {...props.form} className="inline-block w-full max-w-screen-sm" data-sb-field-path=".form" />
                                     </div>
                                 )}
                             </div>
